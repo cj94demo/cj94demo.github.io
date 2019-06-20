@@ -1,4 +1,4 @@
-package com.epoint.manage.httputil;
+package com.cj.test.httputil;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;
